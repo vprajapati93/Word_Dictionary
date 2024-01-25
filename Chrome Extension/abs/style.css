@@ -1,0 +1,26 @@
+body {
+    width: 200px;
+    height: 150px;
+    margin: 0;
+    padding: 10px;
+    border-radius:20px;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    background-color: #F2EDD7FF;
+    
+  }
+
+  p{
+      color: #333;
+      font-style: italic;
+      font-size: 13px;
+  }
+  p > span{
+      font-style: normal;
+      font-weight: bold;
+  }
+  #definition{  
+      font-family: 'monospace','Courier New';
+      font-size: 15px;
+      font-weight: 350;
+  }
