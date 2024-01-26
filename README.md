@@ -1,5 +1,5 @@
 
-# Word_Dictionary(HTML/CSS/JS)
+# Word_Dictionary 
 
 Effortlessly explore word meanings by selecting any term while browsing
 The extension enhancing your online reading and learning experience. Seamlessly integrated into your browser, it simplifies the process of understanding unfamiliar words
